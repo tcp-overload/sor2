@@ -1,2 +1,2 @@
 # sor2
-filters .pcap files and exports them into a file
+filters .pcap files then exports into a file of your choosing
